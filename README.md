@@ -2,13 +2,13 @@
 
 Chapters
 
-1
+1: Information
 
-2
+2: Android Phone
 
-3
+3: Termux and Termux-x11/Termux-x11_xodios
 
-4
+4: Expert Commands
 
 5: https://github.com/Warlord19winter/How-to-install-Termux-Native-Desktop-mode-on-Android
 
