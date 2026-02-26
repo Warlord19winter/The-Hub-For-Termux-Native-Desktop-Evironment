@@ -12,4 +12,4 @@ Chapters
 
 5
 
-6
+6: https://github.com/Warlord19winter/A-boiled-down-version-of-main-guide
