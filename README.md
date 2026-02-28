@@ -8,6 +8,8 @@ https://github.com/Warlord19winter/Information-on-Native-Termux-Desktop/blob/mai
 
 2: Android Phone
 
+https://github.com/Warlord19winter/How-to-setup-Android/tree/main
+
 3: Termux and Termux-x11/Termux-x11_xodios
 
 4: Expert Commands
