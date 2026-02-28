@@ -6,7 +6,7 @@ Chapters
 
 https://github.com/Warlord19winter/Information-on-Native-Termux-Desktop/blob/main/README.md
 
-2: Android Phone
+2: How to Setup Android Phone
 
 https://github.com/Warlord19winter/How-to-setup-Android/tree/main
 
