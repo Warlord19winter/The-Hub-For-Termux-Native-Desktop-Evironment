@@ -12,6 +12,8 @@ https://github.com/Warlord19winter/How-to-setup-Android/tree/main
 
 3: Termux and Termux-x11/Termux-x11_xodios
 
+https://github.com/Warlord19winter/Termux-and-Termux-x11-Termux-x11_xodios/blob/main/README.md
+
 4: Commands to install the Environment and programs
 
 https://github.com/Warlord19winter/Commands-to-install-the-Environment-and-programs/tree/main
