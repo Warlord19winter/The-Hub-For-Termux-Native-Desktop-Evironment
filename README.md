@@ -4,6 +4,8 @@ Chapters
 
 1: Information
 
+https://github.com/Warlord19winter/Information-on-Native-Termux-Desktop/blob/main/README.md
+
 2: Android Phone
 
 3: Termux and Termux-x11/Termux-x11_xodios
