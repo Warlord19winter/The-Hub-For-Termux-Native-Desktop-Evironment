@@ -20,6 +20,10 @@ https://github.com/Warlord19winter/Commands-to-install-the-Environment-and-progr
 
 5: Expert Commands
 
-6: https://github.com/Warlord19winter/How-to-install-Termux-Native-Desktop-mode-on-Android
+6: if you want the original Guide
 
-7: https://github.com/Warlord19winter/A-boiled-down-version-of-main-guide
+https://github.com/Warlord19winter/How-to-install-Termux-Native-Desktop-mode-on-Android
+
+7: If you know what your doing
+
+https://github.com/Warlord19winter/A-boiled-down-version-of-main-guide
